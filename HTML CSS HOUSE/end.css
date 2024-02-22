@@ -1,0 +1,30 @@
+body{
+    background-image: url("https://i.pinimg.com/originals/2d/12/a9/2d12a90fe4100fdac25941f10ee46978.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    text-align: center;
+    color: red;
+}
+form{
+    margin-left: 500px;
+    position: relative;
+    top: 150px;
+    padding: 20px;
+    font-size: 30px;
+    text-transform: capitalize;
+
+}
+label{
+    color: yellow;
+    text-shadow: 2px 2px red;
+}
+button{
+    color: tomato;
+    background-color: black;
+    margin-left: 200px;
+    position: relative;
+    bottom:70px;
+    width: 130px;
+}

@@ -1,0 +1,36 @@
+h1{
+    text-align: center;
+    color: rgb(215, 0, 0);
+    text-shadow: 3px 3px gold;
+    font-size: 25px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    position: relative;
+    top: 160px;
+    right: 130px;
+    
+}
+body{
+    background-image: url("../imge/house3.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.ani1{
+    display: block;
+    margin-left: 500px;
+     position: absolute;
+     bottom: 53%;
+    font-size: 30px;
+    color: deeppink;
+     
+     
+}
+.ani2{
+    display: block;
+    margin-left: 550px;
+     position: absolute;
+     bottom: 53%;
+    font-size: 30px;
+     color: rgb(39, 197, 0);
+     
+}

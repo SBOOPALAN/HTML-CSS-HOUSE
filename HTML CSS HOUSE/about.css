@@ -1,0 +1,39 @@
+
+h1{
+    text-align: center;
+    color: red;
+    font-size: 40px;
+    font-family: mv boli;
+    text-shadow: 3px 3px gold;
+    position: relative;
+    bottom: 20px;
+
+
+}
+.div1{
+    width: 50px;
+    height: 350px;
+    display: flex;
+    padding: 20px;
+
+}
+.div1 img{
+padding: 20px;
+border: 3px double gold;
+background-color: fuchsia;
+
+}
+.div2{
+
+    width: 50px;
+    height: 350px;
+    display: flex;
+    padding: 30px;
+}
+
+.div2 img{
+    padding: 20px;
+    border: 3px double gold;
+    background-color: coral;
+
+}
